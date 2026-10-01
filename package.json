@@ -1,0 +1,32 @@
+{
+  "name": "reconocimiento-facial-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx index.ts",
+    "typecheck": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasiel-cyber/RECONOCIMIENTO-FACIAL-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasiel-cyber/RECONOCIMIENTO-FACIAL-/issues"
+  },
+  "homepage": "https://github.com/rasiel-cyber/RECONOCIMIENTO-FACIAL-#readme",
+  "type": "module",
+  "dependencies": {
+    "@higgsfield/client": "^0.2.6",
+    "dotenv": "^18.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
